@@ -54,6 +54,3 @@ python maze_solver.py
 ## License
 This project is open-source and free to use.
 
-## Author
-Developed by [Your Name]
-
