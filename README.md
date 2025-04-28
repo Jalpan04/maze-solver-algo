@@ -63,12 +63,12 @@ python maze_solver.py
 
 | Element | Color | Description |
 |---------|-------|-------------|
-| ⬛ Black | Walls | Obstacles that cannot be traversed |
-| ⬜ White/Gray | Paths | Open spaces that can be traversed |
-| 🟥 Red | Start | The starting position (top-left) |
-| 🟩 Green | End | The destination (bottom-right) |
-| 🟦 Blue | Visited | Nodes that have been explored |
-| 🟨 Yellow | Final Path | The discovered solution path |
+| Black | Walls | Obstacles that cannot be traversed |
+| White/Gray | Paths | Open spaces that can be traversed |
+| Red | Start | The starting position (top-left) |
+| Green | End | The destination (bottom-right) |
+| Blue | Visited | Nodes that have been explored |
+| Yellow | Final Path | The discovered solution path |
 
 ### Algorithm Colors
 
